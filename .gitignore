@@ -1,0 +1,6 @@
+scenes_raw/
+__pycache__/
+STATUS.md
+slice_scenes.py
+prep_scenes.py
+gen_fonts.py
